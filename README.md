@@ -1,4 +1,4 @@
-### Hi there 👋
+## 
 
 <!--
 **poltavski/poltavski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Poltavskiy GitHub stats](https://github-readme-stats.vercel.app/api?username=poltavski&count_private=true)
+https://media.giphy.com/media/PzY2K7SaqIEyA/giphy.gif
+![Poltavskiy GitHub stats](https://github-readme-stats.vercel.app/api?username=poltavski&count_private=true&show_icons=true)
