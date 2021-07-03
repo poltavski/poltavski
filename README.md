@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ![Poltavskiy GitHub stats](https://github-readme-stats.vercel.app/api?username=poltavski&count_private=true&show_icons=true&hide=stars,prs) -->
-![Visit personal page🔭](https://poltavski.github.io/)
+[Visit personal page🔭](https://poltavski.github.io/)
