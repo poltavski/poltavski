@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Poltavskiy GitHub stats](https://github-readme-stats.vercel.app/api?username=poltavski&count_private=true&show_icons=true&hide=stars,prs)
+<!-- ![Poltavskiy GitHub stats](https://github-readme-stats.vercel.app/api?username=poltavski&count_private=true&show_icons=true&hide=stars,prs) -->
+![Visit personal page🔭](poltavski.github.io)
